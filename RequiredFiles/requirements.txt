@@ -1,0 +1,12 @@
+pyqt6
+opencv-python
+imutils
+torch 
+torchvision 
+numpy 
+matplotlib
+IPython
+pandas
+tqdm
+albumentations
+Pillow

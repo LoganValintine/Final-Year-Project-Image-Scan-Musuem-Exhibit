@@ -1,0 +1,4 @@
+pip install pyqt6 opencv-python imutils torch torchvision numpy pandas tqdm albumentations Pillow shutil
+
+!pip install pyqt6 opencv-python imutils torch torchvision numpy pandas tqdm albumentations Pillow 
+
